@@ -1,5 +1,3 @@
-## Agile Certified Product Manager & IT Business Analysis
-
 <table>
   <tr>
     <td align="center">
