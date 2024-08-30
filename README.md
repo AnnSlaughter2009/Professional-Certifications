@@ -12,7 +12,7 @@
   <tr>
     <td colspan="2" align="center">
       <h3>Certified Scrum Master</h3>
-      <img src="https://i.postimg.cc/m2cBPFwg/Certified-Scrum-Master.png" alt="Certified Scrum Master (CSM)" width="500">
+      <img src="https://i.postimg.cc/m2cBPFwg/Certified-Scrum-Master.png" alt="Certified Scrum Master (CSM)" width="400">
     </td>
   </tr>
 </table>
