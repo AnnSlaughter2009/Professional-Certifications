@@ -1,7 +1,3 @@
-# Ann Slaughter's Certifications
-
-Below are some of my professional certifications:
-
 ## Certified Product Manager (AIPMM)
 ![Certified Product Manager (AIPMM)](https://i.ibb.co/bv03MVL/cert-prod-mgr-AIPMM-Ann.png)
 
