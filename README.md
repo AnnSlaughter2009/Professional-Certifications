@@ -1,7 +1,7 @@
 ## Agile Certified Product Manager
 ![Certified Product Manager (AIPMM)](https://i.ibb.co/bv03MVL/cert-prod-mgr-AIPMM-Ann.png)
 
-## Certified Business Analyst
+## IT Business Analyst
 ![Certified Business Analyst](https://i.ibb.co/hM2KdPv/cert-BA-Ann.png)
 
 ## Certified Scrum Master
